@@ -70,7 +70,7 @@ class MyApp extends StatelessWidget {
                         Icons.phone_rounded,
                         color: constants.accentSecondary,
                       ),
-                      title: SelectableText(
+                      title: Text(
                         '+49 1786948837',
                         style: GoogleFonts.lato(fontSize: 14),
                       ),
@@ -84,7 +84,7 @@ class MyApp extends StatelessWidget {
                     horizontalTitleGap: 0,
                     leading: const Icon(Icons.email_rounded,
                         color: constants.accentPrimary),
-                    title: SelectableText('joshua.meyer.personal@gmail.com',
+                    title: Text('joshua.meyer.personal@gmail.com',
                         style: GoogleFonts.lato(fontSize: 14)),
                     onTap: () =>
                         launch('mailto:joshua.meyer.personal@gmail.com'),
