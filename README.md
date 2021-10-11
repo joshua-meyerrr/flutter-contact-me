@@ -4,4 +4,4 @@ A simple 'business card' app built with flutter. It includes all the relevant li
 
 ![](/assets/images/contact_preview.png)
 
-Check it out on [Vercel](flutter-contact-me.vercel.app)!
+Check it out on [Vercel](https://flutter-contact-me.vercel.app)!
